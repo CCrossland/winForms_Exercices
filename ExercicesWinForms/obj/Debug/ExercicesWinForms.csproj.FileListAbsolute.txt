@@ -1,0 +1,15 @@
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\bin\Debug\ExercicesWinForms.exe.config
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\bin\Debug\ExercicesWinForms.exe
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\bin\Debug\ExercicesWinForms.pdb
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.csprojAssemblyReference.cache
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.Properties.Resources.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.csproj.GenerateResource.cache
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.exe
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.pdb
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.ex1.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.ex2.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.ex3.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.ex4.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.ex5.resources
+C:\Users\Charlie\source\repos\ExercicesWinForms\ExercicesWinForms\obj\Debug\ExercicesWinForms.Menu.resources
